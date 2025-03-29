@@ -1,6 +1,9 @@
 # uta-hackday-2025
 uta-hackday-2025
 
+dataset from:
+'https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download'
+
 How to run
 
 
