@@ -12,3 +12,7 @@ if model is not trained:
 
 'pip install Flask scikit-learn joblib pandas'
 'python app.py'
+
+
+UPDATE after 6pm for information purposes:
+The dataset was too large, so it is not on the github
