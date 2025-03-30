@@ -14,5 +14,6 @@ if model is not trained:
 'python app.py'
 
 
-UPDATE after 6pm for information purposes:
-The dataset was too large, so it is not on the github
+UPDATE after 6pm for information purposes: 
+The dataset was too large, so it is not on the github 
+Also, Gemini was used to generate the front end, fraudDetection.py was not generated
